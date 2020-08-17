@@ -18,7 +18,7 @@ Clone the git repository using https or ssh.
 ```
 $ cd <PROJECTS_DIR>
 $ git clone https://github.com/Spandana8/CSR-APP.git
-$ cd SSR
+$ cd CSR-APP
 $ npm install -g http-server
 $ http-server
 ```
